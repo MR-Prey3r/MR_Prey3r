@@ -11,10 +11,10 @@
      Description: MR_Prey3r profile | Rubayet Hasan | HackerOne | Bugcrowd - MR_Prey3r | Openbugbounty
      Author: Rubayet Hasan | MR_Prey3r
      -->
+
+### Hi there 👋
 ## whoami?
 Assalamualaikum, I'm MD.Rubayet Hasan (I'm also known as MR_Prey3r)
-### Hi there 👋
-
 <!--
 **Rubay3t/Rubay3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,11 +40,11 @@ I'm looking for someone to collaborate with someone, who is passionate about cyb
 You can ask me about cyber security and some web dev stuffs (if I know the answer hehe)
 
 ## Platforms:
-My h1 profile - ![HackerOne](https://www.hackerone.com/rubayet_hassan?type=user)
+My h1 profile - [HackerOne](https://www.hackerone.com/rubayet_hassan?type=user)
 
-My Bugcrowd profile - ![Bugcrowd](https://bugcrowd.com/MR_Prey3r)
+My Bugcrowd profile - [Bugcrowd](https://bugcrowd.com/MR_Prey3r)
 
-Openbugbounty profile - ![Openbugbounty](https://openbugbounty.com/researchers/MR_Prey3r)
+Openbugbounty profile - [Openbugbounty](https://openbugbounty.com/researchers/MR_Prey3r)
 
 
 ## 🌐 Socials:
