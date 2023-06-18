@@ -40,11 +40,11 @@ I'm looking for someone to collaborate with someone, who is passionate about cyb
 You can ask me about cyber security and some web dev stuffs (if I know the answer hehe)
 
 ## Platforms:
-My h1 profile - [HackerOne](https://www.hackerone.com/rubayet_hassan?type=user)
+My h1 profile - [HackerOne](https://hackerone.com/rubayet_hassan?type=user)
 
 My Bugcrowd profile - [Bugcrowd](https://bugcrowd.com/MR_Prey3r)
 
-Openbugbounty profile - [Openbugbounty](https://openbugbounty.com/researchers/MR_Prey3r)
+Openbugbounty profile - [Openbugbounty](https://openbugbounty.org/researchers/MR_Prey3r)
 
 
 ## 🌐 Socials:
