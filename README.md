@@ -40,9 +40,9 @@ I'm looking for someone to collaborate with someone, who is passionate about cyb
 You can ask me about cyber security and some web dev stuffs (if I know the answer hehe)
 
 ## Platforms:
-My h1 profile - ![HackerOne](https://hackerone.com/rubayet_hassan?type=user)
-My Bugcrowd profile - [Bugcrowd](https://bugcrowd.com/MR_Prey3r)
-Openbugbounty profile - [openbugbounty](https://openbugbounty.com/researchers/MR_Prey3r)
+My h1 profile - ![](https://hackerone.com/rubayet_hassan?type=user)
+My Bugcrowd profile - ![](https://bugcrowd.com/MR_Prey3r)
+Openbugbounty profile - ![](https://openbugbounty.com/researchers/MR_Prey3r)
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RubayetH4san) 
