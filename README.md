@@ -11,8 +11,8 @@
      Description: MR_Prey3r profile | Rubayet Hasan | HackerOne | Bugcrowd - MR_Prey3r | Openbugbounty
      Author: Rubayet Hasan | MR_Prey3r
      -->
-# MR_Prey3r
-Rubayet Hasan (MR_Prey3r)
+## whoami?
+Assalamualaikum, I'm MD.Rubayet Hasan (I'm also known as MR_Prey3r)
 ### Hi there 👋
 
 <!--
@@ -33,12 +33,16 @@ Here are some ideas to get you started: -->
 
 
 # 💫 About Me:
+I'm quite active in Bug Bounty platforms like - HackerOne, Bugcrowd, Intigriti, Openbugbounty. But I'm a noob in this field yet and still a learner.
+I also play CTFs sometimes. I do a bit of programming as well.
 Currently working on and learning InfoSec<br>
-I'm looking for someone to collaborate with who is passionate about cyber security and has the same mind like me hehe<br>
+I'm looking for someone to collaborate with someone, who is passionate about cyber security and has the same mind like me hehe<br>
 You can ask me about cyber security and some web dev stuffs (if I know the answer hehe)
 
 ## Platforms:
-[HackerOne](https://hackerone.com/rubayet_hassan?type=user)
+My h1 profile - ![HackerOne](https://hackerone.com/rubayet_hassan?type=user)
+My Bugcrowd profile - [Bugcrowd](https://bugcrowd.com/MR_Prey3r)
+Openbugbounty profile - [openbugbounty](https://openbugbounty.com/researchers/MR_Prey3r)
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RubayetH4san) 
